@@ -1,2 +1,1 @@
-# ToDoApp
-ToDo Application using Vanilla JS
+# JS-Application-Development
